@@ -102,7 +102,7 @@ def main():
     agora_real = AGORA_BR().strftime("%Y-%m-%d %H:%M")
     proximos = [a for a in sorted(agenda, key=lambda a: a["quando"]) if a["quando"] > agora_real][:6]
 
-    out = {"atualizado": coletas[-1], "semana": semana, "porTipo": por_tipo, "resumo": resumo, "dicas": dicas[:3], "proximos": proximos,
+    out = {"atualizado": coletas[-1], "semana": semana, "porTipo": por_tipo, "resumo": resumo, "dicas": dicas[:3], "proximos": proximos, "agendaFutura": [a for a in sorted(agenda, key=lambda a: a["quando"]) if a["quando"][:10] >= agora_real[:10]],
            "agendadosSemana": len([a for a in agenda if a["quando"] > agora_real]), "coletas": coletas, "instagram": ig, "tiktok": tt,
            "seguidores": [seg.get(c) for c in coletas], "videos": videos}
     for p in SAIDAS:
