@@ -1,35 +1,122 @@
 [
- {"quando": "2026-11-23 10:00", "tipo": "Post", "titulo": "Carrossel: gráfico no Power BI"},
- {"quando": "2026-11-23 12:00", "tipo": "Post", "titulo": "Meme: o chefe às 17:55"},
- {"quando": "2026-11-23 13:00", "tipo": "Story", "titulo": "Atalho Ctrl + T"},
- {"quando": "2026-11-23 14:00", "tipo": "Post", "titulo": "Carrossel: do Excel para o Power BI"},
- {"quando": "2026-11-23 16:00", "tipo": "Post", "titulo": "Dica: porcentagem no Excel"},
- {"quando": "2026-11-23 17:00", "tipo": "Story", "titulo": "Time Excel ou Power BI?"},
- {"quando": "2026-11-23 18:00", "tipo": "Post", "titulo": "Carrossel: Excel x Power BI"},
- {"quando": "2026-11-23 20:00", "tipo": "Post", "titulo": "Dica: remover duplicados"},
- {"quando": "2026-11-23 21:00", "tipo": "Story", "titulo": "Aulas particulares"},
- {"quando": "2026-11-24 09:00", "tipo": "Story", "titulo": "Qual sua maior dificuldade?"},
- {"quando": "2026-11-24 13:00", "tipo": "Story", "titulo": "Atalho Alt + ="},
- {"quando": "2026-11-24 19:00", "tipo": "Reel", "titulo": "Desconto no Excel em 2 segundos"},
- {"quando": "2026-11-24 21:00", "tipo": "Story", "titulo": "Como é a aula"},
- {"quando": "2026-11-25 09:00", "tipo": "Story", "titulo": "Você já usou Power BI?"},
- {"quando": "2026-11-25 13:00", "tipo": "Story", "titulo": "Atalho Ctrl + Shift + L"},
- {"quando": "2026-11-25 19:00", "tipo": "Reel", "titulo": "Lista suspensa: chega de status bagunçado"},
- {"quando": "2026-11-25 21:00", "tipo": "Story", "titulo": "Pra quem é a aula"},
- {"quando": "2026-11-26 09:00", "tipo": "Story", "titulo": "Você usa Excel no trabalho?"},
- {"quando": "2026-11-26 13:00", "tipo": "Story", "titulo": "Atalho Ctrl + ;"},
- {"quando": "2026-11-26 19:00", "tipo": "Reel", "titulo": "Power BI é de graça?"},
- {"quando": "2026-11-26 21:00", "tipo": "Story", "titulo": "Aulas particulares"},
- {"quando": "2026-11-27 09:00", "tipo": "Story", "titulo": "Já perdeu horas numa planilha?"},
- {"quando": "2026-11-27 13:00", "tipo": "Story", "titulo": "Atalho Ctrl + D"},
- {"quando": "2026-11-27 19:00", "tipo": "Reel", "titulo": "Fórmula SE sem mistério"},
- {"quando": "2026-11-27 21:00", "tipo": "Story", "titulo": "Sextou!"},
- {"quando": "2026-11-28 09:00", "tipo": "Story", "titulo": "O que você quer aprender?"},
- {"quando": "2026-11-28 13:00", "tipo": "Story", "titulo": "Atalho Ctrl + ↓"},
- {"quando": "2026-11-28 19:00", "tipo": "Reel", "titulo": "PROCV entre duas abas"},
- {"quando": "2026-11-28 21:00", "tipo": "Story", "titulo": "Agenda aberta"},
- {"quando": "2026-11-29 09:00", "tipo": "Story", "titulo": "Próxima dica: você escolhe"},
- {"quando": "2026-11-29 13:00", "tipo": "Story", "titulo": "Atalho Ctrl + Espaço"},
- {"quando": "2026-11-29 19:00", "tipo": "Reel", "titulo": "Filtrei e a soma não mudou?!"},
- {"quando": "2026-11-29 21:00", "tipo": "Story", "titulo": "Resumo da semana"}
+ {
+  "quando": "2026-11-23 10:00",
+  "tipo": "Post",
+  "titulo": "Carrossel: gráfico no Power BI"
+ },
+ {
+  "quando": "2026-11-23 12:00",
+  "tipo": "Post",
+  "titulo": "Meme: o chefe às 17:55"
+ },
+ {
+  "quando": "2026-11-23 13:00",
+  "tipo": "Story",
+  "titulo": "Atalho Ctrl + T"
+ },
+ {
+  "quando": "2026-11-23 14:00",
+  "tipo": "Post",
+  "titulo": "Carrossel: do Excel para o Power BI"
+ },
+ {
+  "quando": "2026-11-23 16:00",
+  "tipo": "Post",
+  "titulo": "Dica: porcentagem no Excel"
+ },
+ {
+  "quando": "2026-11-23 17:00",
+  "tipo": "Story",
+  "titulo": "Time Excel ou Power BI?"
+ },
+ {
+  "quando": "2026-11-23 18:00",
+  "tipo": "Post",
+  "titulo": "Carrossel: Excel x Power BI"
+ },
+ {
+  "quando": "2026-11-23 20:00",
+  "tipo": "Post",
+  "titulo": "Dica: remover duplicados"
+ },
+ {
+  "quando": "2026-11-23 21:00",
+  "tipo": "Story",
+  "titulo": "Aulas particulares"
+ },
+ {
+  "quando": "2026-11-24 13:00",
+  "tipo": "Story",
+  "titulo": "Atalho Alt + ="
+ },
+ {
+  "quando": "2026-11-24 19:00",
+  "tipo": "Reel",
+  "titulo": "Desconto no Excel em 2 segundos"
+ },
+ {
+  "quando": "2026-11-24 21:00",
+  "tipo": "Story",
+  "titulo": "Como é a aula"
+ },
+ {
+  "quando": "2026-11-25 13:00",
+  "tipo": "Story",
+  "titulo": "Atalho Ctrl + Shift + L"
+ },
+ {
+  "quando": "2026-11-25 21:00",
+  "tipo": "Story",
+  "titulo": "Pra quem é a aula"
+ },
+ {
+  "quando": "2026-11-26 13:00",
+  "tipo": "Story",
+  "titulo": "Atalho Ctrl + ;"
+ },
+ {
+  "quando": "2026-11-26 19:00",
+  "tipo": "Reel",
+  "titulo": "Power BI é de graça?"
+ },
+ {
+  "quando": "2026-11-26 21:00",
+  "tipo": "Story",
+  "titulo": "Aulas particulares"
+ },
+ {
+  "quando": "2026-11-27 13:00",
+  "tipo": "Story",
+  "titulo": "Atalho Ctrl + D"
+ },
+ {
+  "quando": "2026-11-27 21:00",
+  "tipo": "Story",
+  "titulo": "Sextou!"
+ },
+ {
+  "quando": "2026-11-28 13:00",
+  "tipo": "Story",
+  "titulo": "Atalho Ctrl + ↓"
+ },
+ {
+  "quando": "2026-11-28 19:00",
+  "tipo": "Reel",
+  "titulo": "PROCV entre duas abas"
+ },
+ {
+  "quando": "2026-11-28 21:00",
+  "tipo": "Story",
+  "titulo": "Agenda aberta"
+ },
+ {
+  "quando": "2026-11-29 13:00",
+  "tipo": "Story",
+  "titulo": "Atalho Ctrl + Espaço"
+ },
+ {
+  "quando": "2026-11-29 21:00",
+  "tipo": "Story",
+  "titulo": "Resumo da semana"
+ }
 ]
